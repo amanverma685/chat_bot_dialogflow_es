@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "basketbot-jeyagx",
+  "private_key_id": "a1561c1e47891809b46284d37d944d8e081dd5a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZDoPr2LCtZ/jd\nc2PjTefS1MB043C9IDcq6rC76cnmF/UqsanXCaOoLq4Oh2xtX+pKTQ6NWhH27SvP\ndDJsjUu4ZtvRyfAHXLpPU0d3/pW2f8INdipLCblKdRFBjExqFSxGXZ7SOU6Xbhz+\nmRwh5tRuNLdqMl7RHED1mLBs8Nr94Vn2wzJNQasyZGsxCVLpoHktQWeEGh44jO6A\noZJDKl8JQxLE7FozYSsL75nebgssagf8rLXll8ZYQacuoMb10MATxAoBeZ43hQKM\ni7qzxV5YFlSI9D4stk28d5sSPzCsMHR74byO9v/ylybxJKtEn9mkb/IIQdzvY4Zi\nDmOFzQ1LAgMBAAECggEADXozO0cglkG5BBr/OTU+IW5S0hgdmxxlRItXllG+/Fqw\ntRqMLN9wQJoiVoIt6zBOdk4fEWr/I6H9Fm6SFW/tsnulhe1vtt4/Q5vph6iXG0kD\nAozHVZsyFzCEHU79guaBYw18XjY7SZH3I04X0D5ose7vav5WI2NcWaP2fmlJB0uN\nLSMC8LkqBRTMSwGVz3IuLYd+BLjB7q849twP66ncjESnXD0bZ0efPhi3NuFe6Yjh\n9VGCOMg43Dfi/B5AebdBrNylMnfPkVTORzpFAZYQUw7bZuy22h9nZIOxJIbwmrO/\nB3bZVXurS8NPUrun83GBnkJpdSGRAr0TDDiyJKcCKQKBgQDWaKXt+wU2CF844q5A\nVwKE4sfowVl+CHWXr+a8u5AhjSIAuR/r0QcYXuKrf1kApYycluvbuW/BzagbSUJY\nerrg42AZOyIMhqNIC+i1pt+dydvRwomqtsx85Hf2vKJW7ojcVcTi2dR6TrifpTHe\nw02QmC2JvbQVF5LAHkXIzZTJ+QKBgQC2vy053SIcecCkY5wuM2svWw7dLHW66Rlq\n4K8PARCyZmQHGeCSehV3uH1397W51Lhe+ZDQm3A7LLTGbhvME5pj8QVxCiPfRaUF\n5H3GkwUW/NPJjEarFSpYeUi6JJcSBXHeyrZVbE8Ih8EklYlw0F4EHwuCJttgZPfu\nuyfafOcCYwKBgCR7M9h1QKK78+/K6hk6dMxFhfw9gcunBtMjc+AjDdgXmnSDC0Jl\nk456/phtl6g7gtxV9ZWyTKiuJG9YHLjPUSLYrU49uIJnGjs1A4h890lywjtDnYb1\niX+qpBrQZ9LgzVqoIVLz+2pAILvRMNYVZwo2SnFIXO7FzwtvWzJagHmJAoGAaA0U\nMCUjnfkI4dDBhWDLf6wmG3KMGf9M9Ji3tCBUJG++NnjacCxI+uC1t8/3zbY7v//z\nH4PRdC/xQiZBd4IV3x/FjGZMpHzgCCngH2dod30/DTvspM6pTLTJ3wqkZaNqAYOE\nK8E+gsnhA/aMygop7cjLYbDEKe9zZ59ygqmpUqcCgYAfMoXAvxc+4NFV41Y0gQSq\n9mjwssjRToTD2xb+XSu8kX4OsWkPLlRIeNSiCHROJ/9N76DnushcGsGyNq7WdjXU\nFgUH9/fTDuocngX1bZojsJdvCuvWZZ/3k50gkqbkDM4G/RMYw3O0DxDkF28Lt37F\nCEb5/mkxP0aDBsgP2VvmiQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dentalbot@basketbot-jeyagx.iam.gserviceaccount.com",
+  "client_id": "107318758899641514731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dentalbot%40basketbot-jeyagx.iam.gserviceaccount.com"
+}
