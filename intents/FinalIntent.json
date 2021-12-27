@@ -1,0 +1,69 @@
+{
+  "id": "91c148a4-2551-4d99-9847-2d59b6f235c1",
+  "name": "FinalIntent",
+  "auto": true,
+  "contexts": [
+    "ScheduleAppt"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "dateTimeFinal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da39cc43-9f37-4d31-ba73-f2bedc3ef227",
+          "required": false,
+          "dataType": "@preferred",
+          "name": "preferred",
+          "value": "$preferred",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "enter your choice"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "49c80e6e-047e-440a-85c0-5a0b853d0dcf",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the date"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

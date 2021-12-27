@@ -1,0 +1,43 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "first one",
+      "first",
+      "the one",
+      "the first one",
+      "1",
+      "yes"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "second one",
+      "second",
+      "2",
+      "the other one",
+      "the second one"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "the third one",
+      "third",
+      "3",
+      "third one",
+      "three"
+    ]
+  },
+  {
+    "value": "-1",
+    "synonyms": [
+      "-1",
+      "fourth",
+      "fifth",
+      "none",
+      "not available"
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "93690f96-2c06-4492-aacd-e7092a757473",
+    "data": [
+      {
+        "text": "July 24",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80d3c0b6-dd9f-492e-872f-cadf9179e33d",
+    "data": [
+      {
+        "text": "What are the time slots available on ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Jun",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59988a62-dc5e-4d52-b4c1-2f4caf00dbe8",
+    "data": [
+      {
+        "text": "third one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e15c11a1-35ab-4e05-b4b3-950aa63b97fc",
+    "data": [
+      {
+        "text": "23 july",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " will be okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c2f9933-62fa-4113-aa68-c49aa30bce1c",
+    "data": [
+      {
+        "text": "23 july",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " 2010",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4822a05-80c6-4c42-a931-5ea9eb5a0901",
+    "data": [
+      {
+        "text": "23 june",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " will fine for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "820f41da-ec33-49e2-bf2d-8b1231414858",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      },
+      {
+        "text": " date will fine for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75643097-4110-4dea-afeb-789258292bbb",
+    "data": [
+      {
+        "text": "i want the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      },
+      {
+        "text": " date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d3876f2-7a7f-4cc8-bda6-ac2fcf23b191",
+    "data": [
+      {
+        "text": "bookme for the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      },
+      {
+        "text": " date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37436f62-ed81-405c-80fa-eaf63fb96ed3",
+    "data": [
+      {
+        "text": "i would select ",
+        "userDefined": false
+      },
+      {
+        "text": "the first one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd4534a6-e638-43b3-9fb3-365f3104a4cf",
+    "data": [
+      {
+        "text": "i would like to book ",
+        "userDefined": false
+      },
+      {
+        "text": "the third one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b16004c2-62c0-4871-882e-efa5cc5812ee",
+    "data": [
+      {
+        "text": "third",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28438641-e518-4c44-82c1-35cd5efc399e",
+    "data": [
+      {
+        "text": "second",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f50f059-0cfc-40f3-aa0a-03709351e144",
+    "data": [
+      {
+        "text": "first",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3ef3c54-831f-4513-be7d-2d6558d10e26",
+    "data": [
+      {
+        "text": "the third one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b34ed028-65d8-46cd-aeb9-751c07c57dd8",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "second one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec9f4ef1-5dbe-4dab-bb6c-04e95a7883b1",
+    "data": [
+      {
+        "text": "the first one",
+        "alias": "preferred",
+        "meta": "@preferred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

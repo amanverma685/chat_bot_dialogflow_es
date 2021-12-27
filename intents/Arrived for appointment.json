@@ -1,0 +1,78 @@
+{
+  "id": "fea59f2c-f264-4367-97e3-e4558051bd57",
+  "name": "Arrived for appointment",
+  "auto": true,
+  "contexts": [
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Arrivedforappointment-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90ddf513-9399-4428-9880-ed45a3faee9d",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "dob",
+          "value": "$dob",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Me puede dar su fecha de nacimiento?"
+            },
+            {
+              "lang": "fr",
+              "value": "Puis-je avoir votre date de naissance?"
+            },
+            {
+              "lang": "en",
+              "value": "Can I have your date of birth?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Veo que tiene una cita programada con el Dr. Mike. ¿Está bien?"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Je vois que vous avez un rendez-vous prévu avec le Dr Mike. Est-ce correct?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I see you have an appointment scheduled with Dr. Mike. Is that right?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

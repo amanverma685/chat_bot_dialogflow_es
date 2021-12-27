@@ -1,0 +1,54 @@
+{
+  "id": "b5b8ae62-df76-4de4-aa9f-ba5662adbb0e",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "welcome",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hi, Daniel, i am the virtual service assistant for Floss Dental. How can I help you today?"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Hola, Daniel, soy el asistente de servicio virtual de Floss Dental. ¿Cómo puedo ayudarte hoy?"
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Bonjour Daniel, je suis l\u0027assistant de service virtuel pour Floss Dental. Comment puis-je vous aider aujourd\u0027hui?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

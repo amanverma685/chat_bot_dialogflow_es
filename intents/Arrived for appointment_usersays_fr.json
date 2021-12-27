@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4e9dfc6d-42cc-4197-b83f-1b5c7b886f8e",
+    "data": [
+      {
+        "text": "Salut je suis arrivé pour mon rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ded7956-7145-4f32-b9ce-1dabf34bf131",
+    "data": [
+      {
+        "text": "salut je suis ici pour rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9b0e4f9-bd65-47f1-b3e2-cbf949452406",
+    "data": [
+      {
+        "text": "je suis ici pour rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

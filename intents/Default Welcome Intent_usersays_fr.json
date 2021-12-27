@@ -1,0 +1,146 @@
+[
+  {
+    "id": "e07d8b02-48c1-4dcc-8df2-17f1226b8b69",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7a33297-39ba-40f1-9b63-21be1238d15a",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3889b9a4-2139-4315-ae89-9820cb020567",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34a0326a-356d-42b2-987b-989c8f450e14",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3041576b-58de-4ff7-b1a5-1265bfa73d77",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f2109a6-a6d4-431f-adda-6e5f22f2a290",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "699d06be-cfd0-4be5-bbaf-86b522a7eb77",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30203ad0-3963-4dda-b270-6846bfe4ed78",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99991831-c01e-4ab9-89e4-63d583d07fc3",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd94f25-25f2-438d-8b18-6c5ebae3ea73",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbed26f-f7dd-4e21-9869-444aa25665ae",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4ac283a-92a4-4a38-8118-e0c83e1f51c7",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

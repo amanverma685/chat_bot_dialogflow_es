@@ -1,0 +1,57 @@
+{
+  "id": "7ccbe1f9-2fcb-46c7-8c15-c557003524c5",
+  "name": "dateTime",
+  "auto": true,
+  "contexts": [
+    "dateTimeFinal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01c99eff-2524-405a-a479-7fb59fc80dbe",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "dateTimef",
+          "value": "$dateTimef",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter time"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "65cfbdb4-f8b0-4e9c-8ab9-2304018e402c",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "dateFinal",
+          "value": "#dateTimeFinal.date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "e4e31d6f-b28c-43bf-9f03-99ab3b0be1a5",
+    "data": [
+      {
+        "text": "necesita ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fddedab2-0203-4e16-af1e-bd94e921479e",
+    "data": [
+      {
+        "text": "programar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita para el chequeo dental anual con ",
+        "userDefined": false
+      },
+      {
+        "text": "el doctor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Khan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35ea5147-b266-4cc9-9f6a-700b5d795002",
+    "data": [
+      {
+        "text": "me gustaría concertar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5f3d9b1-d862-42b1-936a-3e5d18e59747",
+    "data": [
+      {
+        "text": "reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db9b6bfe-703c-4043-ad24-89dff2ba82ab",
+    "data": [
+      {
+        "text": "Cita con la doctora ",
+        "userDefined": false
+      },
+      {
+        "text": "Khan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7ec010cb-255a-44e2-a618-f501939b5ea0",
+    "data": [
+      {
+        "text": "quiero programar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita con ",
+        "userDefined": false
+      },
+      {
+        "text": "el doctor",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mike",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chequeo dental anual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29b61d25-6d7d-416c-8d31-2dcf3363a9f1",
+    "data": [
+      {
+        "text": "agendar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita de trabajo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c6d2cd9-ea4f-4c9d-8b82-6c824bffab2c",
+    "data": [
+      {
+        "text": "me gustaría programar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

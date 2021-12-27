@@ -1,0 +1,171 @@
+[
+  {
+    "id": "be68d982-8b65-4e39-8f2f-0a349caeb4cc",
+    "data": [
+      {
+        "text": "Besoin d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b281ecf-15cf-4a9f-a3e1-f50d95455773",
+    "data": [
+      {
+        "text": "Prendre rendez-vous ",
+        "userDefined": false
+      },
+      {
+        "text": "pour un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " examen ",
+        "userDefined": false
+      },
+      {
+        "text": "dentaire",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " annuel avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "Dr Khan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7277fa47-f6c7-41a9-a6c1-1d00b7af9d0d",
+    "data": [
+      {
+        "text": "Je voudrais fixer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1971608b-62ef-47b8-8e04-5b0a77494084",
+    "data": [
+      {
+        "text": "Prenez rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f273b18-568e-4d88-9b1b-71e4f57d99eb",
+    "data": [
+      {
+        "text": "Prendre rendez-vous avec ",
+        "userDefined": false
+      },
+      {
+        "text": "le docteur khan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86817147-eefa-46c6-82d5-13a3b513a817",
+    "data": [
+      {
+        "text": "Veux prendre rendez-vous avec le Dr ",
+        "userDefined": false
+      },
+      {
+        "text": "Mike",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pour mon examen ",
+        "userDefined": false
+      },
+      {
+        "text": "dentaire",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " annuel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c17115-ff96-4ec2-afdb-e2afa38bf9a8",
+    "data": [
+      {
+        "text": "Planifier ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4975c20d-32a0-4ea2-b92c-fdd40d4be8d0",
+    "data": [
+      {
+        "text": "Je voudrais prendre rendez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

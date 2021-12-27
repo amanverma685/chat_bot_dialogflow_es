@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b094ec55-acfa-41eb-8d3b-6c06a2e97eb5",
+    "data": [
+      {
+        "text": "hola estoy aqui para cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec7f56f1-1a52-45a3-a3e2-c1e4cb271985",
+    "data": [
+      {
+        "text": " Hola he llegado para mi cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

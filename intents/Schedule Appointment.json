@@ -1,0 +1,111 @@
+{
+  "id": "bcdd08b7-2c9d-4492-9454-c931ee155a0e",
+  "name": "Schedule Appointment",
+  "auto": true,
+  "contexts": [
+    "welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ScheduleAppt",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4d3f47b5-8d4b-4b91-8148-35c5e11ee9e7",
+          "required": true,
+          "dataType": "@Existing",
+          "name": "Existing",
+          "value": "$existing",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Are you an existing patient?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Eres paciente actual?"
+            },
+            {
+              "lang": "fr",
+              "value": "Êtes-vous déjà un patient?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cc772789-8970-4822-8d29-4119a06214f2",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "DOB",
+          "value": "$dob",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please verify your date of birth"
+            },
+            {
+              "lang": "es",
+              "value": "Por favor verifique su fecha de nacimiento."
+            },
+            {
+              "lang": "fr",
+              "value": "veuillez vérifier votre date de naissance"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3e085048-9904-4727-9a06-7edcd25b11a5",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "Phone",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your phone number"
+            },
+            {
+              "lang": "es",
+              "value": "Por favor, introduzca su número de teléfono"
+            },
+            {
+              "lang": "fr",
+              "value": "Veuillez entrer votre numéro de téléphone"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "d48160b4-3e7f-40cb-a697-7cca8e9e256a",
+  "parentId": "fea59f2c-f264-4367-97e3-e4558051bd57",
+  "rootParentId": "fea59f2c-f264-4367-97e3-e4558051bd57",
+  "name": "Arrived for appointment - yes",
+  "auto": true,
+  "contexts": [
+    "Arrivedforappointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Arrivedforappointment.Arrivedforappointment-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Le médecin sera prêt dans 20 minutes. Veuillez patienter à l\u0027extérieur et nous vous appellerons. Merci d\u0027avoir attendu."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "El médico estará listo en 20 minutos. Espere afuera y lo llamaremos. Gracias por esperar."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The doctor will be ready in 20 mins. Please wait outside an we will call you in.Thank you for waiting."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
